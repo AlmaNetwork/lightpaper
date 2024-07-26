@@ -1,6 +1,8 @@
 # ALMA Lightpaper
 
-The ALMA Network Light Paper will be written here. Please feel free to submit questions, translations, or corrections through Issues, Pull Requests, etc.
+The ALMA Network Light Paper will be written here. Please feel free to submit questions, translations, or corrections through Issues, Pull Requests, etc.&#x20;
+
+GitHub Repository:  [https://github.com/AlmaNetwork/lightpaper](https://github.com/AlmaNetwork/lightpaper)
 
 ## Our Contents
 
