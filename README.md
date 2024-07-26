@@ -1,5 +1,7 @@
 ---
-description: The ALMA Network Light Paper will be written here
+description: >-
+  The ALMA Network Light Paper will be written here. Please feel free to submit
+  questions, translations, or corrections through Issues, Pull Requests, etc.
 ---
 
 # ALMA Lightpaper
